@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 
 
 
 ![Hyopang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyopangworld&count_private=true&show_icons=true&theme=dracula)
